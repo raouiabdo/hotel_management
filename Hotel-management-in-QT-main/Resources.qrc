@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../room book icon.png</file>
+        <file>../../availability.png</file>
+        <file>../../transaction.png</file>
+        <file>../../checkout.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+#ifndef HOTEL_MANAGEMENT
+#define HOTEL_MANAGEMENT
+
+class hotel_management
+{
+public:
+    hotel_management();
+};
+
+#endif // HOTEL_MANAGEMENT
